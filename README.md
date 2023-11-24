@@ -2,6 +2,11 @@
 ### 里程碑1
 #### 介绍
 网上蛋糕商城，只基于网站的简易便利蛋糕店，没有过多的其他物品和广告，让用户更直观的了解产品的功能和特性。提供前端展示和后端管理系统。后期将对springboot和jsp进行整合。
+### 成果照片展示
+<img src="https://github.com/CMXX648/BoostrapJQuery-base-OnlineCakeShop/blob/master/photo/53bf3434fa87018cb402c642f6c7565.png" width="75%" height="75%">
+<img src="https://github.com/CMXX648/BoostrapJQuery-base-OnlineCakeShop/blob/master/photo/0372238cfb7ffef9d79a65946d0a756.png">
+<img src="https://github.com/CMXX648/BoostrapJQuery-base-OnlineCakeShop/blob/master/photo/76b4d9533f62f6c0a8ed992d03632a7.png">
+<img src="https://github.com/CMXX648/BoostrapJQuery-base-OnlineCakeShop/blob/master/photo/b7f69ab87c18ce924f2ad1b7cf7c558.png">
 
 ### 前台功能
 1. 商品基本展示,包括推荐商品展示和类型商品展示.
